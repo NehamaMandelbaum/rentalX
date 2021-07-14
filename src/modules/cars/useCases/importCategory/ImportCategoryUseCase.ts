@@ -1,5 +1,5 @@
 class ImportCategoryUseCase {
-  execute(file: any): void {
+  execute(file: string): void {
     console.log(file);
   }
 }
